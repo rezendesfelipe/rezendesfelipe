@@ -35,10 +35,13 @@
   <a href="https://github.com/rezendesfelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezendesfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezendesfelipe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> <br>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezendesfelipe" alt="rezendesfelipe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezendesfelipe" alt="rezendesfelipe" /></a> </p> <br>
+	
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezendesfelipe&" alt="rezendesfelipe" /></p> <br>
  
+	<hr>
  ### 🚀 Skills
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-204E87?style=for-the-badge&logo=windows&logoColor=3C93FF) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=FFFFFF) ![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=FFFFFF)
@@ -52,7 +55,7 @@
 ### 🈯 Languages:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezendesfelipe&" alt="rezendesfelipe" /></p>
+<hr>
 
  ### :trophy:  Official Certifications
  
