@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://www.frezentech.com.br/blog/2021/08/06/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
