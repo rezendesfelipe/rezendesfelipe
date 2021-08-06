@@ -35,29 +35,28 @@
   <a href="https://github.com/rezendesfelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezendesfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezendesfelipe&layout=compact&langs_count=7&theme=dracula"/>
-</div> <br>
- 
+</div> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezendesfelipe" alt="rezendesfelipe" /></a> </p> <br>
 	
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezendesfelipe&" alt="rezendesfelipe" /></p> <br>
  
 <hr>
- ### 🚀 Skills
+ ###🚀 Skills
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-204E87?style=for-the-badge&logo=windows&logoColor=3C93FF) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=FFFFFF) ![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=FFFFFF)
  
-### 🌩️ Clouds:
+###🌩️ Clouds:
  ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=for-the-badge&logo=MicrosoftAzure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🛠 Tools:
+###🛠 Tools:
  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
-### 🈯 Languages:
+###🈯 Languages:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
  
 <hr>
 
- ### :trophy:  Official Certifications
+ ###:trophy:  Official Certifications
  
  <div style="display: inline_block">
  <hr>
@@ -90,7 +89,7 @@
 <hr>	
   
 </div>
- ### :detective: Total Profile Views  <br>
+ ###:detective: Total Profile Views  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/rezendesfelipe/count.svg" />
  </p>
