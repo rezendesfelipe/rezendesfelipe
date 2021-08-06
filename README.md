@@ -44,7 +44,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-204E87?style=for-the-badge&logo=windows&logoColor=3C93FF) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=FFFFFF) ![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=FFFFFF)
  
 ### 🌩️ Clouds:
- ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=for-the-badgelogo=MicrosoftAzure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+ ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=for-the-badge&logo=MicrosoftAzure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛠 Tools:
  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -75,6 +75,10 @@
   <a href = "https://www.credly.com/badges/2c0ac509-5c80-4e2b-b8bd-2467ab9ae467" target="_blank">		
   <img align="center" alt="AZ-400" height="100" width="100" src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
 	</a>
+<hr>	
+  
+</div>
+<div style="display: inline_block">
  <a href = "https://gitlab.badgr.com/public/assertions/YF9fL900Q2uPSJPSj-PBMw?identity__email=rezendesfelipe@hotmail.com" target="_blank">		
   <img align="center" alt="GitLab - Associate" height="100" width="100" src="https://media.badgr.com/uploads/badges/assertion-YF9fL900Q2uPSJPSj-PBMw.png">
 	</a>
