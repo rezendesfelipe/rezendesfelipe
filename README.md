@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Rezende</h1>
 <h6 align="center">Cloud consultant, technology and cloud content creator from Brazil</h6>
+<hr>
 
 - 🌱 I’m currently learning **AWS, GCP and negotiation skills**
 
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences (https://www.linkedin.com/in/fsreze/?_l=en_US)
 
-- ⚡ Fun fact **I use to play volleyball**
+- ⚡ Fun fact **I use to play volleyball** 🤷‍♂️
 <hr>
 
 ### Blogs posts
@@ -28,7 +29,7 @@
 <a href="/https://frezentech.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://frezentech.com.br" height="30" width="40" /></a>
 </p>
  
-### 📈 Stats and languages
+### 📈 Stats
 
  <div>
   <a href="https://github.com/rezendesfelipe">
@@ -38,21 +39,50 @@
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezendesfelipe" alt="rezendesfelipe" /></a> </p>
  
-### Clouds:
- ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?logo=MicrosoftAzure&logoColor=white)
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+ ### 🚀 Skills
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-204E87?style=for-the-badge&logo=windows&logoColor=3C93FF) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=FFFFFF) ![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=FFFFFF)
+ 
+### 🌩️ Clouds:
+ ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=for-the-badgelogo=MicrosoftAzure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛠 Tools:
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF)
+ ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
-<h3 align="left">Languages:</h3>
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4??style=for-the-badge&logo=terraform&logoColor=FFFFF)
+### 🈯 Languages:
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezendesfelipe&" alt="rezendesfelipe" /></p>
 
  ### :trophy:  Official Certifications
  
+ <div style="display: inline_block">
+ <hr>
+<a href = "https://www.credly.com/badges/d80bef4c-af47-4c6b-af62-5ac5cb2aadc3" target="_blank">		
+  <img align="center" alt="MCT" height="100" width="100" src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png">
+	</a>
+<a href = "https://www.credly.com/badges/a4f16560-aa3d-44d1-a38c-0d027cd22ede" target="_blank">		
+  <img align="center" alt="AZ-900" height="100" width="100" src="https://miro.medium.com/max/600/0*1CAzxuyWO_3vQ8sI.png">
+	</a>
+<a href = "https://www.credly.com/badges/39bc7593-140c-45cb-bb45-ad2b49341cdb" target="_blank">		
+  <img align="center" alt="AZ-103" height="100" width="100" src="https://images.credly.com/size/340x340/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png">
+	</a>
+
+<a href = "https://www.credly.com/badges/6bea5971-772e-4449-bf65-0af4d59a988d" target="_blank">		
+  <img align="center" alt="AZ-303" height="100" width="100" src="https://images.credly.com/size/680x680/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png">
+	</a>
+  
+  <a href = "https://www.credly.com/badges/2c0ac509-5c80-4e2b-b8bd-2467ab9ae467" target="_blank">		
+  <img align="center" alt="AZ-400" height="100" width="100" src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
+	</a>
+ <a href = "https://gitlab.badgr.com/public/assertions/YF9fL900Q2uPSJPSj-PBMw?identity__email=rezendesfelipe@hotmail.com" target="_blank">		
+  <img align="center" alt="GitLab - Associate" height="100" width="100" src="https://media.badgr.com/uploads/badges/assertion-YF9fL900Q2uPSJPSj-PBMw.png">
+	</a>
+
  
+<hr>	
+  
+</div>
  ### :detective: Total Profile Views  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/rezendesfelipe/count.svg" />
