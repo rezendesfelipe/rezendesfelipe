@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Road to Eye-catching Landscape](https://www.frezentech.com.br/blog/2021/08/07/road-to-eye-catching-landscape/)
+- [Serious Problems with Cables in CIty](https://www.frezentech.com.br/blog/2021/08/07/serious-problems-with-cables-in-city/)
+- [Montain and Winter Cold Weather](https://www.frezentech.com.br/blog/2021/08/07/montain-and-winter-cold-weather/)
 - [Hello world!](https://www.frezentech.com.br/blog/2021/08/06/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
