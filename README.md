@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **AWS, GCP and negotiation skills**
 
-- 👨‍💻 All of my projects are available at (https://frezentech.com.br / https://github.com/rezendesfelipe/rezendesfelipe)
+- 👨‍💻 All of my projects are available at (https://cloudbrasilis.com.br / https://github.com/rezendesfelipe/rezendesfelipe)
 
-- 📝 I regularly write articles on (https://frezentech.com.br)
+- 📝 I regularly write articles on ([cloudbrasilis](https://cloudbrasilis.com.br) and [cloudsquad](https://cloudsquad.com.br))
 
-- 💬 Ask me about **Azure, Azure DevOps, AzureCLI, Terraform, among other things :)**
+- 💬 Ask me about **Cloud, Cloud Native, Azure, DevOps, Infrastructure as Code, among other things :)**
 
 - 📫 How to reach me **frezende21@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/in/fsreze/?_l=en_US)
+- 📄 Know about my experiences (https://www.linkedin.com/in/rezendesfelipe/?_l=en_US)
 
 - ⚡ Fun fact **I use to play volleyball** 🤷‍♂️
 <hr>
@@ -28,8 +28,8 @@
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
-<a href="https://linkedin.com/in/fsreze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fsreze" height="30" width="40" /></a>
-<a href="/https://frezentech.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://frezentech.com.br" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rezendesfelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezendesfelipe" height="30" width="40" /></a>
+<a href="/https://cloudbrasilis.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cloudbrasilis.com.br" height="30" width="40" /></a>
 </p>
  
 ### 📈 Stats
