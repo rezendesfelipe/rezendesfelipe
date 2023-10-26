@@ -19,9 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Road to Eye-catching Landscape](https://www.frezentech.com.br/blog/2021/08/07/road-to-eye-catching-landscape/)
-- [Serious Problems with Cables in CIty](https://www.frezentech.com.br/blog/2021/08/07/serious-problems-with-cables-in-city/)
-- [Hello world!](https://www.frezentech.com.br/blog/2021/08/06/hello-world/)
+- [Hello world!](https://cloudbrasilis.com.br/2023/10/16/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
