@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **AWS, GCP and negotiation skills**
 
-- 👨‍💻 All of my projects are available at (https://cloudbrasilis.com.br / https://github.com/rezendesfelipe/rezendesfelipe)
+- 👨‍💻 All of my projects are available at (https://github.com/rezendesfelipe/rezendesfelipe)
 
-- 📝 I regularly write articles on ([cloudbrasilis](https://cloudbrasilis.com.br) and [cloudsquad](https://cloudsquad.com.br))
+- 📝 I regularly write articles on ([cloudsquad](https://cloudsquad.com.br))
 
 - 💬 Ask me about **Cloud, Cloud Native, Azure, DevOps, Infrastructure as Code, among other things :)**
 
@@ -15,19 +15,12 @@
 - 📄 Know about my experiences (https://www.linkedin.com/in/rezendesfelipe/?_l=en_US)
 
 - ⚡ Fun fact **I use to play volleyball** 🤷‍♂️
-<hr>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://cloudbrasilis.com.br/2023/10/16/hello-world/)
-<!-- BLOG-POST-LIST:END -->
 
 <hr>
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
 <a href="https://linkedin.com/in/rezendesfelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezendesfelipe" height="30" width="40" /></a>
-<a href="/https://cloudbrasilis.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cloudbrasilis.com.br" height="30" width="40" /></a>
 </p>
  
 ### 📈 Stats
